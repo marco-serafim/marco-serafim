@@ -4,15 +4,11 @@ I'm Marco, interested in programming and languages
 
 Programming langs:
 
--> C/C++
--> Python
+-> C/C++ | Python
 
 Real langs:
 
--> PT/BR
--> EN/US
--> DE/DE
--> RU/RU
+-> PT/BR | EN/US | DE/DE | RU/RU
 
 <!---
 marco-serafim/marco-serafim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
