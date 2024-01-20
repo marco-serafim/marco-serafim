@@ -4,7 +4,7 @@ I'm Marco, interested in programming and languages
 
 Programming langs:
 
--> C/C++ | Python
+-> C/C++ | Python | Shell Script 
 
 Real langs:
 
