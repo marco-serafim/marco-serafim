@@ -1,12 +1,11 @@
-# SUP!!!
+# Hello
 
-I'm Marco, interested in programming and languages
-
-Programming langs:
+My name is Marco, and I want to help people in open-source software community and also make my own projects.
+Programming languages:
 
 -> C/C++ | Python | Shell Script 
 
-Real langs:
+Real languages:
 
 -> PT/BR | EN/US | DE/DE | RU/RU
 
