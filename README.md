@@ -7,7 +7,7 @@ Programming languages:
 
 Real languages:
 
--> PT/BR | EN/US | DE/DE | RU/RU
+-> PT/BR | EN/US
 
 <!---
 marco-serafim/marco-serafim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
